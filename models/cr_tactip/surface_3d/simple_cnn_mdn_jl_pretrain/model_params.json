@@ -1,0 +1,1 @@
+{"model_type": "simple_cnn_mdn_jl", "model_kwargs": {"conv_layers": [32, 32, 32, 32], "conv_kernel_sizes": [11, 9, 7, 5], "fc_layers": [512, 512], "activation": "relu", "dropout": 0.0, "apply_batchnorm": true}, "mdn_kwargs": {"model_out_dim": 128, "n_mdn_components": 1, "sigma_inv_min": 1, "sigma_inv_max": 1}}
